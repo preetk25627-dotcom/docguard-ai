@@ -3,7 +3,7 @@
 ## Team Details
 
 - **Team Name:** DocGuard
-- **Team Members:** Preet,Anushka,khushi
+- **Team Members:** Preet, Anushka, Khushi
 - **Selected Problem:** Problem 05 – Automated Documentation Drift Detection
 
 ## Project Name
@@ -29,7 +29,7 @@ We plan to build a tool that:
 
 ## AI Model Selection
 
-- **Planned Model:** Qwen2.5-7B-Instruct (open-weight model; final model and license verification pending).
+- **Planned Model:** Qwen2.5-Coder:7B (Ollama model tag: qwen2.5-coder:7b; license verification pending).
 - **Runtime:** Ollama.
 - **Purpose:** The model will help explain evidence-backed documentation inconsistencies and suggest corrected documentation.
 
@@ -42,7 +42,7 @@ We will use deterministic code analysis to identify potential mismatches and use
 - Git
 - GitHub Pull Requests
 - Ollama
-- Qwen2.5-7B-Instruct
+- Qwen2.5-Coder:7B
 
 ## Expected Outcome
 
