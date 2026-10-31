@@ -1,0 +1,17 @@
+{
+    "total_issues": 1,
+    "status": "Issues found",
+    "issues": [
+        {
+            "function": "calculate_price",
+            "parameter": "tax",
+            "code_value": "18",
+            "documentation_value": "10",
+            "issue": "Mismatch: code has 18, documentation has 10",
+            "evidence": {
+                "line_number": 5,
+                "documentation_line": "Default tax rate: tax=10"
+            }
+        }
+    ]
+}
